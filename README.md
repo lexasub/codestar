@@ -103,7 +103,7 @@ The proposed methodology for staged artificial intelligence learning represents 
 The application of this methodology can contribute to the creation of deeper and more contextually aware AI systems capable of not only effectively performing specific tasks but also understanding their structural foundations and relationships. Such systems can potentially become more reliable partners in solving complex problems requiring a deep understanding of the subject area and the ability for complex reasoning. In perspective, the development of such systems can lead to a qualitative leap in the automation of intellectual activity and the formation of new forms of collaboration between humans and machines.
 
 It is important to note that the proposed methodology is not complete or exhaustive – it is rather an invitation to discussion and experiments in the field of more structured and contextually rich artificial intelligence learning. Further development of this approach requires interdisciplinary collaboration of specialists in the fields of artificial intelligence, cognitive science, education, and software engineering. Only such a comprehensive consideration of the problem will allow creating truly deep and understanding artificial intelligence systems capable of productive collaboration with humans in solving complex intellectual problems.
-
+```
 {
 "phase_1_architecture":
     [
@@ -342,3 +342,4 @@ It is important to note that the proposed methodology is not complete or exhaust
     }
     ]
 }
+```
